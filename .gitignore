@@ -1,0 +1,8 @@
+.DS_STORE
+.idea
+__pycache__
+*.pyc
+sqliteeeeeee.py
+create_table.py
+venv
+data.db
